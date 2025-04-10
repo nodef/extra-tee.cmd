@@ -24,3 +24,4 @@ Write stdin to stdout and file in Windows Console.
 
 
 [![cmdf](https://i.imgur.com/6HVu894.jpg)](https://cmdf.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-tee.cmd)
